@@ -1,5 +1,6 @@
 m4_survey_data.sqlite 
 m1_survey_data.csv
+jobs.json 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
