@@ -1,1 +1,1 @@
-# Technology Trends Analysis
+# Technology Industry Trends Analysis
