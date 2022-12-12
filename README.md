@@ -22,9 +22,21 @@ Performed exploratory data analysis, statistical analysis, and data visualizatio
 * Flask
 ## Methodology
 
+* Performed exploratory/statistical analysis 
+    * Preliminary exploratory data analysis was performed on csv  data using Python <br/><br/>
+
+* Created Python visualizations 
+    * SQLite file was read in using Pandas and DB-API connection
+    * Pandas dataframes were used to perform exploratory data analysis and to create visualizations using Pandas, MatPlotLib, and Seaborn libraries. <br/><br/>
+
+* Created an IBM Cognos Dashboard to visualize industry trends
+    * csv data was imported into IBM Cognos to create Dashboard
+    * IBM Cognos Dashboard was made to visualize current/future trends and demographics trends according to the Stack Overflow developer survey<br/><br/>
+
+    
 ## Results of Analysis
 
-[Link to presentation for technology industry trends analysis](technology_industry_trends_analysis.pptx)<br/>
+[Link to presentation for technology industry trends analysis](technology_industry_trends_analysis.pdf)<br/>
 
 ### IBM Cognos Dashboard Results
 
