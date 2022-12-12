@@ -23,30 +23,39 @@ Performed exploratory data analysis, statistical analysis, and data visualizatio
 ## Methodology
 
 ## Results of Analysis
-[Link to presentation for technology industry trends analysis](technology_industry_trends_analysis.pptx)
+
+[Link to presentation for technology industry trends analysis](technology_industry_trends_analysis.pptx)<br/>
 
 ### IBM Cognos Dashboard Results
-Dashboard Tab 1.
+
+Dashboard Tab 1.<br/>
+
 ![dashboard_tab_1](./images/dashboard_tab1.png)<br/>
 
-Dashboard Tab 2.
+Dashboard Tab 2.<br/>
+
 ![dashboard_tab_2](./images/dashboard_tab2.png)<br/>
 
-Dashboard Tab 3.
+Dashboard Tab 3.<br/>
+
 ![dashboard_tab_3](./images/dashboard_tab3.png)<br/><br/>
 
 ### Examples of [Python Seaborn and Pandas Visualizations](data_visualization.ipynb) using SQLite data
 
-Top 5 Languages Used in the Tech Industry:
+Top 5 Languages Used in the Tech Industry:<br/>
+
 ![top_5_lang](./images/top_5_lang_bar.png)<br/>
 
-Top 5 Databases Used in the Tech Industry:
+Top 5 Databases Used in the Tech Industry:<br/>
+
 ![top_5_db](./images/top_5_db_bar.png)<br/>
 
-Top 5 Databases that Respondents Want to Learn in the Next Year:
+Top 5 Databases that Respondents Want to Learn in the Next Year:<br/>
+
 ![top_5_db_next_yr_pie](./images/top_5_db_next_yr_pie.png)<br/>
 
-Median Compensation for Employees in the Tech Industry (Aged 45 to 60)
+Median Compensation for Employees in the Tech Industry (Aged 45 to 60)<br/>
+
 ![age_compensation](./images/age_compensation.png)<br/><br/>
 
 ### Microsoft Excel Visualization from openpyxl imported data
