@@ -23,4 +23,4 @@ Performed exploratory data analysis, statistical analysis, and data visualizatio
 ## Methodology
 
 ## Results of Analysis
-### Link to presentation pdf
+[Presentation for technology industry trends analysis](technology_industry_trends_analysis.pptx)
